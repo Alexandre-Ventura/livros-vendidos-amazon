@@ -1,2 +1,4 @@
-# livros-vendidos-amazon
- Dashboard interativo que exibe os livros mais vendidos da Amazon, desenvolvido com python. 
+# Ranking de livros mais vendidos da Amazon
+
+Um dashboard interativo desenvolvido com python, que apresenta os livros mais vendidos da Amazon. 
+ 
