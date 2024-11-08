@@ -5,6 +5,9 @@ import plotly.graph_objects as go
 
 st.set_page_config(layout="wide")
 
+st.title("Os livros mais vendidos da Amazon (Dados de Novembro/2023)")
+st.divider()
+
 df_reviews  = pd.read_csv('datasets/customer reviews.csv')
 df_top100_books = pd.read_csv('datasets/Top-100 Trending Books.csv')
 
