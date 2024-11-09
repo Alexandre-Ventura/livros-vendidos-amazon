@@ -2,7 +2,7 @@
 
 Um app web desenvolvido com python usando a biblioteca Streamlit.
 
-Com auxílio das bibliotecas Pandas e Plotly, o app uma apresenta uma breve análise dos livros mais vendidos da Amazon e suas avaliações. 
+Com auxílio das bibliotecas Pandas e Plotly, o app apresenta uma breve análise dos livros mais vendidos da Amazon e suas avaliações. 
 
 Os dados foram obtidos na plataforma Kaggle, sendo extraídos em novembro de 2023. 
 
