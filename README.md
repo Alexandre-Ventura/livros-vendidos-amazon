@@ -39,30 +39,14 @@ Dependendo do seu sistema operacional, ative sua venv com um dos seguintes coman
 source .venv/bin/activate
 ```
 
-### Instalando o Streamlit
-
-Com seu ambiente ligado, digite: 
+### Instalando as bibliotecas
 ```bash
-pip install streamlit
+pip install -r requirements.txt
 ```
 
-Executando seu aplicativo Streamlit:
+### Executando o Streamlit
 ```bash
 streamlit run app.py
-```
-
-### Instalando o Pandas 
-
-Com seu ambiente ligado, digite: 
-```bash
-pip install pandas
-```
-
-### Instalando o Plotly 
-
-Com seu ambiente ligado, digite: 
-```bash
-pip install plotly
 ```
 
 ## Resultado Final 
